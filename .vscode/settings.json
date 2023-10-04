@@ -3,7 +3,8 @@
         "src",
         "sistema-smart-tv/src",
         "scanner/src",
-        "conta-banco/src"
+        "conta-banco/src",
+        "controle-fluxo/src"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
