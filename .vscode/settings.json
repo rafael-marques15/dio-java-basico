@@ -3,8 +3,9 @@
         "src",
         "sistema-smart-tv/src",
         "scanner/src",
+        "controle-fluxo/src",
         "conta-banco/src",
-        "controle-fluxo/src"
+        "condicional-composta-encadeada/src"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
