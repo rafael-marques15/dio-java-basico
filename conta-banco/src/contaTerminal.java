@@ -1,8 +1,10 @@
+import java.util.Locale;
 import java.util.Scanner;
 
 public class contaTerminal {
     public static void main(String[] args) throws Exception {
-        Scanner scanner = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in).useLocale(Locale.US);
+        ;
 
         System.out.println("Por favor, digite o número da sua conta ");
         int conta = scanner.nextInt();
